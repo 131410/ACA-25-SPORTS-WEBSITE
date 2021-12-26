@@ -1,0 +1,49 @@
+.d ul{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
+.d ul li {
+    list-style: none;
+   
+}
+.d ul li a{
+    text-decoration: none;
+    color: white ;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 30px;
+    padding: 1em;
+    white-space: nowrap;
+}
+.s h1{
+    color: cyan;
+    font-family: cursive;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    background: url("https://cricketstorm.com/wp-content/uploads/2019/03/d226e8ccd15ba748c3f33b93988a61b2.jpg") no-repeat  center;
+    background-size: cover;
+    position: relative;
+    
+}
+.k h2{
+   color:coral;
+}
+
+.d{
+  
+   background:linear-gradient(to top, blue,grey, lightsalmon,coral );
+}
+
+body{
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/12/dark-color-02.jpg");
+}
+#year{
+    position: relative;
+    top: -600px;
+    left:700px;
+}
+
+
+
